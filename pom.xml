@@ -24,7 +24,7 @@
 
         <!-- Hibernate ORM -->
         <dependency>
-            <groupId>org.hibernate</groupId>
+            <groupId>org.hibernate.orm</groupId>
             <artifactId>hibernate-core</artifactId>
             <version>7.1.9.Final</version>
         </dependency>
